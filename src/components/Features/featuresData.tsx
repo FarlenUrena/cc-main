@@ -89,7 +89,7 @@ const featuresData: Feature[] = [
     ),
     title: "Soporte Técnico",
     paragraph:
-      "Ofrecemos soporte continuo para nuestras aplicaciones con la finalidad de resolver dudas, solucionar problemas y garantizar que tu plataforma funcione sin interrupciones.",
+      "Ofrecemos soporte continuo para nuestras aplicaciones con la finalidad solucionar problemas y garantizar que tu plataforma funcione sin interrupciones.",
   },
 ];
 export default featuresData;
